@@ -27,10 +27,10 @@ const MyApp = ({ Component, pageProps, router }) => (
 
     <GlobalStyle>
     <ThirdwebProvider 
-  activeChain={ PolygonZkevmTestnet }
-  supportedChains={ [PolygonZkevm , Goerli , Ethereum ] }
-  clientId="65e4278f59fd629424e381d06900a076"
->
+      activeChain={ PolygonZkevmTestnet }
+      supportedChains={ [PolygonZkevm , Goerli , Ethereum ] }
+      clientId="65e4278f59fd629424e381d06900a076"
+    >
       <Star />
       <AnimatePresence exitBeforeEnter>
         <MotionBox

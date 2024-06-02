@@ -147,7 +147,7 @@ export default function HomePage() {
                             w={'100%'}
                             h={'120%'}
                             src={
-                                'https://github.com/degenbuilder7/PolygonZkevmclaimUI/assets/94379406/e417b8e6-524d-4bbb-8331-a27fde85fa78' 
+                                'https://raw.githubusercontent.com/degenbuilder7/polygonzkevmlxlyclaimsui/master/public/polygonlxly.png' 
                             }
                         />
                     </Box>

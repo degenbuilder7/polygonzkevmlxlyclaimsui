@@ -2,7 +2,7 @@
 
 PolygonZkevmclaimUI is a user-friendly Decentralized Application (Dapp) designed to simplify the process of claiming and managing messages and assets across four distinct LxLy chains. Whether you're active on Polygon zkEVM, Goerli, Ethereum, or Polygon zkEVM Testnet, this Dapp is your go-to solution for streamlined cross-chain communication.
 
-![claimui](https://github.com/degenbuilder7/PolygonZkevmclaimUI/assets/94379406/1163e2d9-7adb-497a-9967-fa82d944c8ba)
+![claimui](https://raw.githubusercontent.com/degenbuilder7/polygonzkevmlxlyclaimsui/master/public/polygonlxly.png)
 
 ## Key Features
 
